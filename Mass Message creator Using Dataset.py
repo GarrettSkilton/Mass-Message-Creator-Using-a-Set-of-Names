@@ -1,0 +1,2 @@
+for people in ['Abby', 'Bary', 'Cary', 'Darell', 'Eve', 'Fiona', 'Gary', 'Harold', 'Isaiah', 'Jake', 'Keller', 'Larry', 'Michael', 'Nora', 'Owen', 'Parker', 'Quinn', 'Robert', 'Sally', 'Tucker', 'Uriel', 'Vikky', 'Wanda', 'Xavier', 'Yolanda', 'Zoolander'] :
+    print(f'Hello, {people}, welcome to our company! We will hold orientation Monday afternoon, 3-PM at the Brooks Center. We look forward to seeing you there, {people}!')
